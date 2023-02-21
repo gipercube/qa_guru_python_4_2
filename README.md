@@ -1,2 +1,3 @@
-# qa_guru_python_4_2
-qa.guru. Python 4.2
+# Курс QA.GURU: AQA Python
+
+Поток 4. Задание 2.
